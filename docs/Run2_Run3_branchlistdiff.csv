@@ -1,5 +1,4 @@
 branchName, Run2, Run3
-#
 Electron_cleanmask, ROOT::VecOps::RVec<UChar_t>, NOT AVAILABLE
 Electron_dEscaleDown, ROOT::VecOps::RVec<Float_t>, NOT AVAILABLE
 Electron_dEscaleUp, ROOT::VecOps::RVec<Float_t>, NOT AVAILABLE
@@ -14,7 +13,6 @@ Electron_mvaFall17V2noIso, ROOT::VecOps::RVec<Float_t>, NOT AVAILABLE
 Electron_mvaFall17V2noIso_WP80, ROOT::VecOps::RVec<Bool_t>, NOT AVAILABLE
 Electron_mvaFall17V2noIso_WP90, ROOT::VecOps::RVec<Bool_t>, NOT AVAILABLE
 Electron_mvaFall17V2noIso_WPL, ROOT::VecOps::RVec<Bool_t>, NOT AVAILABLE
-#
 FatJet_btagCSVV2, ROOT::VecOps::RVec<Float_t>, NOT AVAILABLE
 FatJet_deepTagMD_H4qvsQCD, ROOT::VecOps::RVec<Float_t>, NOT AVAILABLE
 FatJet_deepTagMD_HbbvsQCD, ROOT::VecOps::RVec<Float_t>, NOT AVAILABLE
@@ -43,7 +41,6 @@ FatJet_particleNet_TvsQCD, ROOT::VecOps::RVec<Float_t>, NOT AVAILABLE
 FatJet_particleNet_WvsQCD, ROOT::VecOps::RVec<Float_t>, NOT AVAILABLE
 FatJet_particleNet_ZvsQCD, ROOT::VecOps::RVec<Float_t>, NOT AVAILABLE
 FatJet_particleNet_mass, ROOT::VecOps::RVec<Float_t>, NOT AVAILABLE
-#
 Jet_bRegCorr, ROOT::VecOps::RVec<Float_t>, NOT AVAILABLE
 Jet_bRegRes, ROOT::VecOps::RVec<Float_t>, NOT AVAILABLE
 Jet_btagCSVV2, ROOT::VecOps::RVec<Float_t>, NOT AVAILABLE
@@ -57,7 +54,6 @@ Jet_cleanmask, ROOT::VecOps::RVec<UChar_t>, NOT AVAILABLE
 Jet_puId, ROOT::VecOps::RVec<Int_t>, NOT AVAILABLE
 Jet_puIdDisc, ROOT::VecOps::RVec<Float_t>, NOT AVAILABLE
 Jet_qgl, ROOT::VecOps::RVec<Float_t>, NOT AVAILABLE
-#
 L1PreFiringWeight_Dn, Float_t, NOT AVAILABLE
 L1PreFiringWeight_ECAL_Dn, Float_t, NOT AVAILABLE
 L1PreFiringWeight_ECAL_Nom, Float_t, NOT AVAILABLE
@@ -69,7 +65,6 @@ L1PreFiringWeight_Muon_SystDn, Float_t, NOT AVAILABLE
 L1PreFiringWeight_Muon_SystUp, Float_t, NOT AVAILABLE
 L1PreFiringWeight_Nom, Float_t, NOT AVAILABLE
 L1PreFiringWeight_Up, Float_t, NOT AVAILABLE
-#
 LowPtElectron_embeddedID, ROOT::VecOps::RVec<Float_t>, NOT AVAILABLE
 Muon_cleanmask, ROOT::VecOps::RVec<UChar_t>, NOT AVAILABLE
 Muon_mvaId, ROOT::VecOps::RVec<UChar_t>, NOT AVAILABLE
